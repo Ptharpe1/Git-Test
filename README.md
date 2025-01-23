@@ -1,0 +1,1 @@
+I plan to use this repo to help me practice with the linux terminal and git hub commands and how they can connect through eachother to complete assignments.
